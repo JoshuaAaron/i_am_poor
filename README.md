@@ -1,6 +1,6 @@
 # i_am_poor
 
-First Fluuter Bootcamp Challenge
+First Flutter Bootcamp Challenge
 
 ## Getting Started
 
